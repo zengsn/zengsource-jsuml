@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmi:XMI xmlns:uml="http://www.omg.org/spec/UML/20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701">
+	<uml:Class name="Order" xmi:type="uml:Class" xmi:id="_1"> 
+		<ownedAttribute xmi:type="uml:Property" xmi:id="_2" name="name" visibility="private"></ownedAttribute> 
+		<ownedAttribute xmi:type="uml:Property" xmi:id="_3" name="date" visibility="private"></ownedAttribute> 
+	</uml:Class>
+</xmi:XMI>
